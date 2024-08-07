@@ -1,9 +1,9 @@
-package main
+package hello
 
 import (
 	"fmt"
 )
 
-func main() {
+func Greet() {
 	fmt.Println("private repo test")
 }
