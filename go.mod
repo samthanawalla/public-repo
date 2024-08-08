@@ -1,3 +1,3 @@
 module github.com/samthanawalla/private-repo
 
-go 1.24
+go 1.23
