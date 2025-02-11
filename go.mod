@@ -1,3 +1,3 @@
-module github.com/samthanawalla/private-repo
+module github.com/samthanawalla/public-repo
 
 go 1.23
