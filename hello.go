@@ -5,5 +5,5 @@ import (
 )
 
 func Greet() {
-	fmt.Println("private repo test")
+	fmt.Println("public repo test")
 }
